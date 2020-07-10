@@ -1,6 +1,14 @@
-### Hi there 👋
+```php
+<?php
+
+echo <<<_
+Hi there 👋. I am Runrioter. Programmer. Dad.
+<3 coding. Follow me. 😄
+_;
+```
 
 <!--
+### Hi there 👋
 **Runrioter/Runrioter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
