@@ -1,11 +1,11 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Runrioter.Runrioter)
-
 ```php
 <?php
 
 echo <<<_
-Hi there 👋. I am Runrioter. Programmer. Dad.
-<3 coding. Follow me. 😄
+Hi there 👋. 
+I am Runrioter.😄
+<3 coding. 💻
+Follow me. 👣
 _;
 ```
 
